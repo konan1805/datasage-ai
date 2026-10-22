@@ -1,0 +1,11 @@
+
+# Ignore everything by default
+/*
+
+# Allow public documentation
+!/README.md
+!/assets/
+!/assets/**
+
+# Track the ignore rules themselves
+!/.gitignore
